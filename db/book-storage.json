@@ -1,0 +1,16 @@
+[
+    {
+        "id": "01",
+        "title": "How to master Golang in 30 seconds",
+        "publishYear": "2023",
+        "genre": "Technology",
+        "author": "John Doe"
+    },
+    {
+        "id": "02",
+        "title": "What the hell was Covid 19?",
+        "publishYear": "2022",
+        "genre": "Medical",
+        "author": "Dr. Dumbass"
+    }
+]
